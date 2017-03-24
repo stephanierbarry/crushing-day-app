@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/stephanierbarry/crushing-day-app/issues"
   },
-  "homepage": "https://github.com/stephanierbarry/crushing-day-app#readme"
+  "homepage": "https://github.com/stephanierbarry/crushing-day-app#readme",
+  "engines": {
+      "node": "7.7.3"
+    },
 }
