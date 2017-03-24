@@ -8,15 +8,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/stephanierbarry/crushing-day-app.git"
+    "url": "https://github.com/stephanierbarry/crushing-day-app.git"
   },
   "author": "Stephanie Barry",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/stephanierbarry/crushing-day-app/issues"
-  },
-  "homepage": "https://github.com/stephanierbarry/crushing-day-app#readme",
   "engines": {
-      "node": "7.7.3"
-    }
+    "node": "7.7.3"
+  }
 }
