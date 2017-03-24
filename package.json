@@ -1,0 +1,19 @@
+{
+  "name": "crushing-day-app",
+  "version": "1.0.0",
+  "description": "Create my own app for crushing day",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stephanierbarry/crushing-day-app.git"
+  },
+  "author": "Stephanie Barry",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stephanierbarry/crushing-day-app/issues"
+  },
+  "homepage": "https://github.com/stephanierbarry/crushing-day-app#readme"
+}
